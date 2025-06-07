@@ -94,7 +94,3 @@ dotnet publish -c Release -o ./publish
 ## Deployment
 
 The application can be deployed to Azure App Service or any other .NET Core compatible hosting environment. Make sure to configure the appropriate connection strings and API keys in the production environment.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
